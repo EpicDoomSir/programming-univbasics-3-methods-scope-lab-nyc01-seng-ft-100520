@@ -8,4 +8,7 @@ def toadstool
   puts status
 end
 
-link = "It's Dangerous To Go Alone! Take This."
+def link 
+  words = "It's Dangerous To Go Alone! Take This."
+  puts words
+end
